@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Data: SARC Country Population
-# Source: Who International
+# Source: Wordl Bank
 # URL: https://data.worldbank.org/indicator/SP.POP.TOTL?end=2022&locations=BD-IN-PK-NP-AF-MV-BT-LK&name_desc=false&start=1960&view=chart
 
 # Read the data from csv file
